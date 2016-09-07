@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "56763330102",
+    "firebase_url": "https://admob-app-id-3887571539.firebaseio.com",
+    "project_id": "admob-app-id-3887571539",
+    "storage_bucket": "admob-app-id-3887571539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56763330102:android:ae2ff4fffbace1f4",
+        "android_client_info": {
+          "package_name": "com.application.antdot.animaltonesfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56763330102-rin75mmcqoost1go4aqshd6td5u1ekvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUlivsXzDvAwdIwCCYAhZ8Fq9b9_i0uRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56763330102:android:ffbcb4b395286d94",
+        "android_client_info": {
+          "package_name": "com.application.antdot.flashlighthd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56763330102-rin75mmcqoost1go4aqshd6td5u1ekvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUlivsXzDvAwdIwCCYAhZ8Fq9b9_i0uRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

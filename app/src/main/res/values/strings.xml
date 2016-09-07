@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlashLight Note</string>
+    <string name="banner_home_header">ca-app-pub-2380499177963367/6043472334</string>
+    <string name="banner_battery_footer"></string>
+    <string name="interstitial_full_screen"></string>
+
+</resources>
